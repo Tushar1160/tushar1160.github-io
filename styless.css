@@ -1,0 +1,24 @@
+.cont
+{
+margin-top: 200px;
+margin-left: 150px;
+}
+.country
+{
+    float:left;
+}
+.country label
+{
+    display: block;
+    margin-bottom:8px ;
+    font-family: 'roboto';
+    font-weight:500;
+}
+select
+{
+    border: solid blue 1px;
+    height: 40px;
+    width: 200px;
+    padding: 0 15px;
+    margin-right:20px;
+}
